@@ -5,6 +5,13 @@
 
 
 
+
+.dir-fa {
+    direction: rtl;
+}
+.fa-jus {
+    text-align: justify;
+}
 .irsans {
     font-family: irsans;
 }
